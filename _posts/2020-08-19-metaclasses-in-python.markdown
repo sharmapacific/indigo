@@ -33,6 +33,7 @@ Now just print the class itself -
 ```python
 print(Tutorial)
 
+# Output - 
 # <class '__main__.Tutorial'>
 ```
 The reason we're able to do this because the `Tutorial` class is an object, just like any other object. When you use the `class` keyword, Python creates this object automatically. It's an instance of a metaclass - `type`.
@@ -66,6 +67,7 @@ This time, we get a printout that `Tutorial` is of type of `type`. But what abou
 ```python
 print(type(type))
 
+# Output - 
 # <class 'type'>
 ```
 the type of `type` is `type`, you maybe find this weird. Thus we find that `type` is also its own metaclass!
