@@ -58,19 +58,19 @@ print(type('Hey'))
 
 As expected `1` is the type of `int` class, `Hey` is the type of `str` class, let's find out the Type of our Class - 
 ```python
-type(Tutorial)
+print(type(Tutorial))
 
 # Output - 
-# type
+# <class 'type'>
 ``` 
-This time, we get a printout that `Tutorial` is of type of `type`. But what about the `type` itself? What is the type's `type`?
+This time, we get a printout that `Tutorial` is of type of class `type`. But what about the `type` itself? What is the type's `type`?
 ```python
 print(type(type))
 
 # Output - 
 # <class 'type'>
 ```
-the type of `type` is `type`, you maybe find this weird. Thus we find that `type` is also its own metaclass!
+the type of `type` is class `type`, you maybe find this weird. Thus we find that `type` is also its own metaclass!
 
 ## Understanding How Metaclasses Work
 
