@@ -110,4 +110,4 @@ Python has 2 Garbage Collection algorithms. One for dealing with reference count
 I hope that you now have a fair understanding of the Garbage Collection algorithms in python.
 
 ### Reference
-https://rushter.com/blog/python-garbage-collector/
+[https://rushter.com/blog/python-garbage-collector/](https://rushter.com/blog/python-garbage-collector/)
