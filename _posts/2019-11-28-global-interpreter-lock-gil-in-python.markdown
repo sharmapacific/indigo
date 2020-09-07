@@ -113,4 +113,5 @@ The GIL is a problem if, and only if, you are doing CPU-intensive work in pure P
 
 I hope that you now have a fair understanding of the Global Interpreter Lock in python.
 
-If you have any suggestions on your mind, please let me know in the comments.
+### Reference
+[https://rohanvarma.me/GIL/](https://rohanvarma.me/GIL/)
