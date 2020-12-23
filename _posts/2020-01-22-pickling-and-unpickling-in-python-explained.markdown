@@ -113,3 +113,7 @@ The documentation of the Pickle module states:
 
 I hope that you now have a fair understanding of Pickling/Unpickling in python.
 
+## **Reference**
+[https://docs.python.org/3.8/library/pickle.html](https://docs.python.org/3.8/library/pickle.html)
+
+[https://stackoverflow.com/questions/7501947/understanding-pickling-in-python](https://stackoverflow.com/questions/7501947/understanding-pickling-in-python)
