@@ -206,3 +206,7 @@ So for example, if you want every single class in a specific module to never be 
 The purpose of metaclasses isn't to replace the class/object distinction with metaclass/class - it's to change the behavior of class definitions (and thus their instances) in some way.
 A reasonable pattern of metaclass use is doing something once when a class is defined rather than repeatedly whenever the same class is instantiated. When multiple classes share the same special behavior, repeating `metaclass=X` is obviously better than repeating the specific purpose code.
 
+## Reference
+[https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python](https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python)
+
+[https://stackoverflow.com/questions/392160/what-are-some-concrete-use-cases-for-metaclasses/393368](https://stackoverflow.com/questions/392160/what-are-some-concrete-use-cases-for-metaclasses/393368)
