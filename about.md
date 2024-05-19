@@ -7,7 +7,7 @@ layout: page
 
 <p>Greetings! My name is Prashant, 
 <br>
-An Engineering professional with 3.6+ years of experience in Software development.
+An Engineering professional with 7+ years of experience in Software development.
 <br>
 I Post-graduated in CS from National Institute of Technology Calicut.</p>
 
