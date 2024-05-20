@@ -7,29 +7,51 @@ layout: page
 
 <p>Greetings! My name is Prashant, 
 <br>
-An Engineering professional with 7+ years of experience in Software development.
-<br>
-I Post-graduated in CS from National Institute of Technology Calicut.</p>
+ An engineering professional with over 7 years of experience in software development. I hold a postgraduate degree in Computer Applications from the National Institute of Technology Calicut. I specialize in Python and Go, working extensively with frameworks like Django, Flask, and FastAPI. I have a robust background in both SQL and NoSQL databases, including MongoDB, MySQL, and PostgreSQL. My expertise extends to cloud infrastructure and DevOps, with proficiency in AWS, Azure, Docker, Kubernetes, and Terraform.
+</p>
 
-<h2>Skills</h2>
+## Education
+**NIT Calicut**  
+*Master of Computer Applications*  
+July 2014 - May 2017
 
-<ul class="skill-list">
-	<li>Python</li>
-	<li>Django</li>
-	<li>JavaScript</li>
-	<li>Data Structures</li>
-	<li>MongoDB</li>
-	<li>MySql</li>
-	<li>PostgreSQL</li>
-	<li>Celery</li>
-	<li>Redis</li>
-	<li>AWS</li>
-        <li>Azure</li>
-        <li>GCP</li>
-	<li>Git</li>
-	<li>Lint</li>
-	<li>Docker</li>
-</ul>
+## Certifications
+### CKAD
+**[Certified Kubernetes Application Developer](https://www.credly.com/badges/cf840589-1a5f-451d-a36f-4f099a5ab8f8?source=linked_in_profile)**  
+Issued by The Linux Foundation
+
+### AWS
+**[Certified Solutions Architect Associate](https://www.udemy.com/certificate/UC-adeda7d7-5471-4450-9562-b98d349d4e46/)**  
+Issued by Udemy
+
+### AWS Fundamentals
+**[Building Serverless Applications](https://coursera.org/share/9beca0de9b4659e7a173a15b3656250a)**  
+Issued by Coursera
+
+## Skills
+**Languages:**  
+• Python, GO
+
+**Frameworks:**  
+• Django, Flask, FastAPI, Fission, Serverless
+
+**Databases:**  
+• MongoDB, MySQL, PostgreSQL, Redis, Snowflake
+
+**Infrastructure/DevOps:**  
+• AWS, Azure, Docker, Kubernetes, Terraform, Kafka
+
+**Libraries/ORM:**  
+• Google Speech-to-Text, Pandas, Numpy, Elasticsearch, SQLAlchemy
+
+**Monitoring Tools:**  
+• Prometheus, Grafana, AKHQ
+
+**Day to Day:**  
+• Git, CircleCI, Jenkins, Celery, Sentry
+
+## Publications
+[1] P.K. Sharma. *Effects of current communication technology: The networking sites.* Vesta Publications, Canada, 2014.
 
 
 <h2>Contact me:</h2>
