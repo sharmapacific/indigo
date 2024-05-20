@@ -24,7 +24,7 @@ disqus:
   - 
   - 
 linkedin: sharmapacific
-twitter: sharmapacific1
+# twitter: sharmapacific1
 github: sharmapacific
 medium: sharmapacific
 email: sharma.pacific1@gmail.com
@@ -34,7 +34,7 @@ authors:
     bio: A Man who develops software with coffee
     external-image: false
     picture: assets/images/PrashantSharma.jpg
-    twitter: sharmapacific1
+    # twitter: sharmapacific1
 width: normal
 projects: false
 about: true
