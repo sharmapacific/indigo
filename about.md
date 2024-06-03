@@ -17,7 +17,7 @@ July 2014 - May 2017
 
 ## Certifications
 ### CKAD
-**[Certified Kubernetes Application Developer](https://www.credly.com/badges/cf840589-1a5f-451d-a36f-4f099a5ab8f8?source=linked_in_profile)**  
+**[Certified Kubernetes Application Developer](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/995e4e27-b642-4135-bc2a-5ac7d7092a0f-prashant-kumar-sharma-certified-kubernetes-application-developer-ckad-certificate.pdf)**  
 Issued by The Linux Foundation
 
 ### AWS
@@ -39,16 +39,16 @@ Issued by Coursera
 • MongoDB, MySQL, PostgreSQL, Redis, Snowflake
 
 **Infrastructure/DevOps:**  
-• AWS, Azure, Docker, Kubernetes, Terraform, Kafka
+• AWS, Azure, Docker, Kubernetes, Terraform, Kafka, RabbitMQ
 
 **Libraries/ORM:**  
-• Google Speech-to-Text, Pandas, Numpy, Elasticsearch, SQLAlchemy
+• Google Speech-to-Text, Pandas, Numpy, Elasticsearch, SQLAlchemy, IoT
 
 **Monitoring Tools:**  
 • Prometheus, Grafana, AKHQ
 
 **Day to Day:**  
-• Git, CircleCI, Jenkins, Celery, Sentry
+• Git, CircleCI, Jenkins, JIRA, Celery, Sentry
 
 ## Publications
 [1] P.K. Sharma. *Effects of current communication technology: The networking sites.* Vesta Publications, Canada, 2014.
