@@ -9,7 +9,7 @@ layout: page
 <br>
 With over 7 years of extensive experience in software development, I have honed my skills across diverse domains including IoT, Healthcare, Media, and Fintech. I currently lead a dynamic development team at Biofourmis, where I have been instrumental in building scalable, reliable infrastructures and cutting-edge solutions for continuous patient monitoring and data analytics.
 
-My technical expertise spans a wide array of tools and technologies, including Python, Go, Django, Flask, FastAPI, Azure, AWS, Docker, Kubernetes, Terraform, Kafka, Celery, SQL and NoSQL databases. I am proficient in leveraging cloud platforms, orchestrating containerized applications, and implementing CI/CD pipelines to ensure seamless deployments and operations.
+My technical expertise spans a wide array of tools and technologies, including Python, Go, Django, Flask, FastAPI, Azure, AWS, Docker, Kubernetes, Terraform, Kafka, Celery, SQL and NoSQL databases. I am proficient in developing highly scalable and reliable products using microservices architecture and by leveraging cloud platforms. My extensive experience with containerization and orchestration tools like Kubernetes allows me to enable seamless deployments and operations.
 
 I am passionate about utilizing technology to solve complex problems and deliver impactful solutions. With a keen eye for detail and a commitment to excellence, I strive to drive innovation and deliver value in every project I undertake.
 
@@ -22,29 +22,33 @@ Let's connect and explore how we can collaborate on exciting opportunities and d
 July 2014 - May 2017
 
 ## Skills
-**Languages:**  
-• Python, GO
 
-**Frameworks:**  
-• Django, Flask, FastAPI, Fission, Serverless
+**Programming Languages:**  
+• Python, Go
+
+**Frameworks and Libraries:**  
+• Django, Flask, FastAPI, Fission, Serverless, PySpark, Airflow, Pandas, NumPy, SQLAlchemy
 
 **Databases:**  
 • MongoDB, MySQL, PostgreSQL, Redis, Snowflake
 
-**Infrastructure/DevOps:**  
-• AWS, Azure, Docker, Kubernetes, Terraform, Kafka, RabbitMQ
+**DevOps and Infrastructure:**  
+• AWS, Azure, Docker, Kubernetes, Terraform, Kafka
 
-**Libraries/ORM:**  
-• Google Speech-to-Text, Pandas, Numpy, Elasticsearch, SQLAlchemy, IoT
+**Monitoring:**  
+• Prometheus, Grafana, AKHQ, Elasticsearch, Sentry
 
-**Monitoring Tools:**  
-• Prometheus, Grafana, AKHQ
+**Project Management:**  
+• Git, CircleCI, Jenkins, JIRA
 
-**Day to Day:**  
-• Git, CircleCI, Jenkins, JIRA, Celery, Sentry
+**Task and Queue Management:**  
+• Celery, RabbitMQ
 
 **Advanced Technologies:**  
-• Prompt Engineering, Cybersecurity, Generative AI, Generative AI Tools
+• Prompt Engineering, Cybersecurity, Generative AI
+
+**Core Competencies:**  
+• System Design, Database Design, Microservices Architecture, Agile Practices, Task Allocation, API Development/POC, IoT Devices
 
 ## Certifications
 ### CKAD
