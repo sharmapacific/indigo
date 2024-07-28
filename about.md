@@ -45,18 +45,18 @@ July 2014 - May 2017
 • Celery, RabbitMQ
 
 **Generative AI:**  
-• Natural Language Processing (NLP)    
+* Natural Language Processing (NLP)    
   - NLP    
   - Code Explanation    
   - Text Generation    
   - Text Summarization    
-• Machine Learning    
+* Machine Learning    
   - Machine Learning    
   - Language Models    
   - Google's PaLM    
-• [Hugging Face](https://huggingface.co/sharmapacific)    
-• BART (Bidirectional and Auto-Regressive Transformers)    
-• T5 (Text-to-Text Transfer Transformer)    
+* [Hugging Face](https://huggingface.co/sharmapacific)    
+* BART (Bidirectional and Auto-Regressive Transformers)    
+* T5 (Text-to-Text Transfer Transformer)  
     
 **Core Competencies:**  
 • System Design, Database Design, Microservices Architecture, Agile Practices, Task Allocation, API Development/POC, IoT Devices
