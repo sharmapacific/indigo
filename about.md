@@ -27,7 +27,7 @@ July 2014 - May 2017
 • Python, Go
 
 **Frameworks and Libraries:**  
-• Django, Flask, FastAPI, Fission, Serverless, PySpark, Airflow, Pandas, NumPy, SQLAlchemy
+• Django, Flask, FastAPI, Fission, Serverless, PySpark, Airflow, Pandas, NumPy, SQLAlchemy, Gradio  
 
 **Databases:**  
 • MongoDB, MySQL, PostgreSQL, Redis, Snowflake
@@ -44,9 +44,20 @@ July 2014 - May 2017
 **Task and Queue Management:**  
 • Celery, RabbitMQ
 
-**Advanced Technologies:**  
-• Prompt Engineering, Cybersecurity, Generative AI
-
+**Generative AI:**  
+• Natural Language Processing (NLP)    
+  - NLP    
+  - Code Explanation    
+  - Text Generation    
+  - Text Summarization    
+• Machine Learning    
+  - Machine Learning    
+  - Language Models    
+  - Google's PaLM    
+• [Hugging Face](https://huggingface.co/sharmapacific)    
+• BART (Bidirectional and Auto-Regressive Transformers)    
+• T5 (Text-to-Text Transfer Transformer)    
+    
 **Core Competencies:**  
 • System Design, Database Design, Microservices Architecture, Agile Practices, Task Allocation, API Development/POC, IoT Devices
 
