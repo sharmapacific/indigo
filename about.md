@@ -8,11 +8,11 @@ layout: page
 <p>Greetings! My name is Prashant, 
 <br>
 With over 7 years of extensive experience in software development, I have honed my skills across diverse domains including IoT, Healthcare, Media, and Fintech. I currently lead a dynamic development team at Biofourmis, where I have been instrumental in building scalable, reliable infrastructures and cutting-edge solutions for continuous patient monitoring and data analytics.
-
-My technical expertise spans a wide array of tools and technologies, including Python, Go, Django, Flask, FastAPI, Azure, AWS, Docker, Kubernetes, Terraform, Kafka, Celery, SQL and NoSQL databases. I am proficient in developing highly scalable and reliable products using microservices architecture and by leveraging cloud platforms. My extensive experience with containerization and orchestration tools like Kubernetes allows me to enable seamless deployments and operations.
-
+<br>
+My technical expertise spans a wide array of tools and technologies, including Python, Go, Django, Flask, FastAPI, Azure, AWS, Docker, Kubernetes, Terraform, Kafka, Celery, SQL and NoSQL databases, Generative AI, LangChain. I am proficient in developing highly scalable and reliable products using microservices architecture and by leveraging cloud platforms. My extensive experience with containerization and orchestration tools like Kubernetes allows me to enable seamless deployments and operations.
+<br>
 I am passionate about utilizing technology to solve complex problems and deliver impactful solutions. With a keen eye for detail and a commitment to excellence, I strive to drive innovation and deliver value in every project I undertake.
-
+<br>
 Let's connect and explore how we can collaborate on exciting opportunities and drive technological advancements together.
 </p>
 
@@ -42,24 +42,20 @@ July 2014 - May 2017
 • Git, CircleCI, Jenkins, JIRA
 
 **Task and Queue Management:**  
-• Celery, RabbitMQ
+• Celery, RabbitMQ  
 
-**Generative AI:**  
-* Natural Language Processing (NLP)    
-  - NLP    
-  - Code Explanation    
-  - Text Generation    
-  - Text Summarization    
-* Machine Learning    
-  - Machine Learning    
-  - Language Models    
-  - Google's PaLM    
-* [Hugging Face](https://huggingface.co/sharmapacific)    
-* BART (Bidirectional and Auto-Regressive Transformers)    
-* T5 (Text-to-Text Transfer Transformer)  
-    
-**Core Competencies:**  
-• System Design, Database Design, Microservices Architecture, Agile Practices, Task Allocation, API Development/POC, IoT Devices
+**Core Competencies:**    
+• System Design, Database Design, Microservices Architecture, Agile Practices, Task Allocation, API Development/POC, IoT Devices  
+
+**Generative AI:**    
+**− Natural Language Processing (NLP):** Code Explanation, Text Generation, Text Summarization    
+**− Machine Learning:** Machine Learning, Language Models, Google’s PaLM, GPT-3.5, BART, T5    
+**− Frameworks and Libraries:** LangChain, LangSmith, Streamlit, Hugging Face, Gradio    
+**− Vector Databases:** Chroma, FAISS    
+**− Retrieval-Augmented Generation (RAG)**    
+**[Generative AI Project](https://huggingface.co/sharmapacific)**  
+
+
 
 ## Certifications
 ### CKAD
