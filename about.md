@@ -7,7 +7,7 @@ layout: page
 
 <p>Greetings! My name is Prashant, 
 <br>
-With over 7 years of extensive experience in software development, I have honed my skills across diverse domains including IoT, Healthcare, Media, and Fintech. I currently lead a dynamic development team at Biofourmis, where I have been instrumental in building scalable, reliable infrastructures and cutting-edge solutions for continuous patient monitoring and data analytics.
+With over 7.5 years of extensive experience in software development, I have honed my skills across diverse domains including IoT, Healthcare, Media, and Fintech. I currently lead a dynamic development team at Biofourmis, where I have been instrumental in building scalable, reliable infrastructures and cutting-edge solutions for continuous patient monitoring and data analytics.
 <br>
 My technical expertise spans a wide array of tools and technologies, including Python, Go, Django, Flask, FastAPI, Azure, AWS, Docker, Kubernetes, Terraform, Kafka, Celery, SQL and NoSQL databases, Generative AI, LangChain. I am proficient in developing highly scalable and reliable products using microservices architecture and by leveraging cloud platforms. My extensive experience with containerization and orchestration tools like Kubernetes allows me to enable seamless deployments and operations.
 <br>
